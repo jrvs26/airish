@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/airish/static/css/main.6281a006.css",
-    "main.js": "/airish/static/js/main.7a514045.js",
+    "main.css": "/airish/static/css/main.9d2b9d68.css",
+    "main.js": "/airish/static/js/main.f239c5a3.js",
     "static/js/453.05317b02.chunk.js": "/airish/static/js/453.05317b02.chunk.js",
     "static/media/palagi.mp3": "/airish/static/media/palagi.5c8c0dc7bfcd41438fbd.mp3",
     "index.html": "/airish/index.html",
-    "main.6281a006.css.map": "/airish/static/css/main.6281a006.css.map",
-    "main.7a514045.js.map": "/airish/static/js/main.7a514045.js.map",
+    "main.9d2b9d68.css.map": "/airish/static/css/main.9d2b9d68.css.map",
+    "main.f239c5a3.js.map": "/airish/static/js/main.f239c5a3.js.map",
     "453.05317b02.chunk.js.map": "/airish/static/js/453.05317b02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6281a006.css",
-    "static/js/main.7a514045.js"
+    "static/css/main.9d2b9d68.css",
+    "static/js/main.f239c5a3.js"
   ]
 }
