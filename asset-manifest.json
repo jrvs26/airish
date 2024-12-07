@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/airish/static/css/main.6281a006.css",
+    "main.js": "/airish/static/js/main.eaf3400d.js",
+    "static/js/453.05317b02.chunk.js": "/airish/static/js/453.05317b02.chunk.js",
+    "static/media/palagi.mp3": "/airish/static/media/palagi.5c8c0dc7bfcd41438fbd.mp3",
+    "index.html": "/airish/index.html",
+    "main.6281a006.css.map": "/airish/static/css/main.6281a006.css.map",
+    "main.eaf3400d.js.map": "/airish/static/js/main.eaf3400d.js.map",
+    "453.05317b02.chunk.js.map": "/airish/static/js/453.05317b02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6281a006.css",
+    "static/js/main.eaf3400d.js"
+  ]
+}
